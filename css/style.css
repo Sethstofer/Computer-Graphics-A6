@@ -30,7 +30,7 @@ h3 {
 }
 
 a {
-    color: #CA3C25;
+    color: #256fca;
 }
 
 #app {
@@ -74,13 +74,13 @@ a {
 }
 
 .setting-item.active {
-    color: #CA3C25;
+    color: #256fca;
 }
 
 
 #canvas {
     aspect-ratio: 16 / 9;
-    height: 60vh;
+    height: 70vh;
 
     overflow: scroll;
     background-color: white;
